@@ -1,0 +1,19 @@
+[2023-08-28]
+
+Implementacion de id unico para insercion de cliente - Desarrollo - 2
+Validación para creacion de id unico de customer transaction e insercion - Desarrollo - 3
+Implementacion de id unico para insercion de documento - Desarrollo - 3
+
+[2023-08-29]
+
+Validación para creacion de id unico de document transaction e insercion - Desarrollo - 2
+Implementacion de id unico para insercion de paymentMethodTransaction - Desarrollo - 3
+Validación para creacion de id unico de paymentMethodTransaction e insercion - Desarrollo -3
+
+[2023-08-30]
+
+Integracion de features de validacion de insercion para desplegar en QA - Revisión - 1
+Preparacion de ramas de features de validacion de insercion para proximo despliegue en produccion - Revisión - 2
+Revision de fallo en transacciones insertadas para tienda 2 costa rica e insercion de tr faltantes - Revisión - 5
+
+.
