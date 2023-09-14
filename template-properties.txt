@@ -1,0 +1,3 @@
+X_HOST=https://xtiming.intelix.biz/index.php/api/timesheets
+X_USER=<USER-XTIMING>
+X_PASS=<PASSWORD-API>
